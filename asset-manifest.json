@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/React-Project3/static/css/main.2bc5f11d.css",
+    "main.js": "/React-Project3/static/js/main.8dd098a9.js",
+    "static/media/edgeDisplay.PNG": "/React-Project3/static/media/edgeDisplay.9df62411be8f952bbcdd.PNG",
+    "static/media/bg.jpeg": "/React-Project3/static/media/bg.cf5e2e121698dc9fdc0e.jpeg",
+    "static/media/search.jpg": "/React-Project3/static/media/search.eb23c9ffac61e5366c0a.jpg",
+    "static/media/quick-access.png": "/React-Project3/static/media/quick-access.12c884e6c402771d80d3.png",
+    "static/media/thispc.png": "/React-Project3/static/media/thispc.23c19d8281dd0d1c8806.png",
+    "static/media/store.jpg": "/React-Project3/static/media/store.3ce4a8d56314a638d8a5.jpg",
+    "static/media/vsCodedisplay.PNG": "/React-Project3/static/media/vsCodedisplay.fb5d9da4153374c48d79.PNG",
+    "static/media/widgets.jpg": "/React-Project3/static/media/widgets.4c8a89bda20569740abf.jpg",
+    "static/media/pcDisplay.png": "/React-Project3/static/media/pcDisplay.e05ff79b1a5831cdb61d.png",
+    "static/media/recyclebinicon.png": "/React-Project3/static/media/recyclebinicon.7451e2f64ffb6d191b4a.png",
+    "static/media/startmenu.PNG": "/React-Project3/static/media/startmenu.06e3209b2c2db3de2b42.PNG",
+    "static/media/chromeDisplay.PNG": "/React-Project3/static/media/chromeDisplay.5b8a64d9a904b61db51a.PNG",
+    "static/media/error.jpg": "/React-Project3/static/media/error.5470f1a1486b157f2212.jpg",
+    "static/media/binDisplay.PNG": "/React-Project3/static/media/binDisplay.cd05639694138ac41217.PNG",
+    "static/media/edgeicon.png": "/React-Project3/static/media/edgeicon.be5690937d1ece54318c.png",
+    "static/media/error-m.jpg": "/React-Project3/static/media/error-m.e64b93b81e7161e72afc.jpg",
+    "static/media/clouds.png": "/React-Project3/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/mist.png": "/React-Project3/static/media/mist.bec995ef50f9dab24180.png",
+    "static/media/snow.png": "/React-Project3/static/media/snow.c8ed556c8e144314a339.png",
+    "static/media/drizzle.png": "/React-Project3/static/media/drizzle.586dab4fa773ec5fbaaf.png",
+    "static/media/taskbarright.PNG": "/React-Project3/static/media/taskbarright.6e3b1654897d1b10f860.PNG",
+    "static/media/vscodeIcons.PNG": "/React-Project3/static/media/vscodeIcons.40c2e84e193530e385f5.PNG",
+    "static/media/searchIcon.PNG": "/React-Project3/static/media/searchIcon.4703d23c246f44f8af87.PNG",
+    "static/media/widgetsIcon.PNG": "/React-Project3/static/media/widgetsIcon.583d84e5a4dd93f5896b.PNG",
+    "index.html": "/React-Project3/index.html",
+    "static/media/win.PNG": "/React-Project3/static/media/win.a43540fa82438e338482.PNG",
+    "static/media/storeIcon.PNG": "/React-Project3/static/media/storeIcon.e0cee92e2f36301ca76c.PNG",
+    "main.2bc5f11d.css.map": "/React-Project3/static/css/main.2bc5f11d.css.map",
+    "main.8dd098a9.js.map": "/React-Project3/static/js/main.8dd098a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc5f11d.css",
+    "static/js/main.8dd098a9.js"
+  ]
+}
