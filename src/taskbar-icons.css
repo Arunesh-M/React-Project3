@@ -1,0 +1,151 @@
+#dstart {
+    position: absolute;
+    bottom:7%;
+    left: 30%;
+    width: 600px;
+    display:none;
+    z-index: 1;
+    border-radius: 0;
+}
+
+#dstart img{
+    border-radius: 0;
+}
+
+.Power{
+    position: absolute;
+    bottom:2.85%;
+    right:4.44%;
+    color:rgb(45, 42, 42);
+    font-size:20px;
+}
+
+.Power:hover{
+    background-color: red;
+    color:white;
+    cursor: pointer;
+}
+
+#dstart.display{
+    display: block;
+}
+
+#dsearch{
+    position: absolute;
+    bottom:7%;
+    left:33%;
+    width: 650px;
+    display: none;
+    z-index: 1;
+}
+
+#dsearch.display{
+    display: block;
+}
+
+#dwidget{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 670px;
+    height: 100vh;
+    transition: 0.5s;
+    z-index: 1;
+    display: none;
+}
+
+#dwidget.display{
+    display: block;
+}
+
+#dchrome{
+    position: absolute;
+    top:0%;
+    left: 0%;
+    width: 100vw;
+    height: 100vh;
+    /* height: 100vh; */
+    display:none;
+    z-index: 1;
+}
+
+#dchrome.display{
+    display: block;
+}
+
+#dvscode{
+    position: absolute;
+    bottom:7%;
+    left:25%;
+    height: 600px;
+    display: none;
+}
+
+#dvscode.display{
+    display: block;
+}
+
+#dexplorer{
+    position: absolute;
+    top:3%;
+    left:20%;
+    width: 850px;
+    display: none;
+}
+
+#dexplorer.display{
+    display: block;
+}
+
+#dstore{
+    position: absolute;
+    top:0%;
+    left:27%;
+    width:900px;
+    display:none;
+}
+
+#dstore.display{
+    display: block;
+}
+
+/*  */
+
+.taskbar_icons{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #f3f3f3;
+    z-index: 1;
+}
+
+.right{
+    position: absolute;
+    right: 0;
+    z-index: 1;
+}
+
+.explorer{
+    width:35px;
+    height:38px;
+    margin-bottom: 5px;
+}
+
+.taskbar_icons img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+/*  */
+
+@media  (max-width:1200px), (max-height:680px) {
+    .taskbar_icons{
+        display: none;
+    }
+    #dstart.display,#dsearch.display,#dwidget.display,#dchrome.display,#dvscode.display,#dexplorer.display,#dstore.display{
+        display: none;
+    }
+
+}

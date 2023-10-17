@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+
+.log{
+    background: url(./Images/bg.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+
+.blur{
+    height: 100vh;
+    background-color: rgba(114, 98, 98, 0.438);
+    backdrop-filter: blur(170px);
+}
+
+.date-time{
+    display: flex;
+}
+
+.time{
+    position: absolute;
+    bottom:14%;
+    left:1%;
+    color:#fff;
+    font-size:120px;
+    font-family: 'Inter', sans-serif;
+}
+
+.date{
+    position: absolute;
+    bottom:5%;
+    left:1%;
+    color:#fff;
+    font-size: 70px;
+    font-family: 'Inter', sans-serif;
+}
+
+/*  */
+.sign{
+    position: absolute;
+    top: 0px;
+    margin: auto;
+    height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img{
+    border-radius: 50%;
+}
+
+.name{
+    color:#c2b6b6;
+    font-size: 35px;
+    font-weight: 500;
+    margin-top: 18px;
+    margin-bottom: 10px;  
+}
+
+.sign-in{
+    width: 80px;
+    height: 25px;
+    background-color: rgb(160, 170, 181);
+    color: rgb(71, 58, 58);
+    border: none;
+}
+
+.sign-in:hover{
+    background-color: #d5c8c8;
+    color: black;
+    cursor: pointer;
+}
+
+.int{
+    width:190px;
+    padding:5px;
+    outline: none;
+    margin-left:px;
+    background-color: rgba(132, 153, 172, 0.192);
+    border: 1px solid #f8f8f8fb;
+    border-right: none;
+    color:#ffffffbe;
+}
+
+.btn{
+    width:15px;
+    height: 16.3px;
+    padding:5px;
+    background-color: rgba(132, 153, 172, 0.192);
+    border: 1px solid #f8f8f8fb;
+    color:#ffffffbe;
+    position: relative;
+    top:1px;
+    right:0.7px;
+}
+
+.btn:hover{
+    background-color: rgba(25, 27, 29, 0.329);
+    cursor:pointer
+}
+
+.error{
+    color:red;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.shutdown{
+    position:absolute;
+    bottom: 0;
+    right: 0.2%;
+    font-size: 25px;
+    color:#706666;
+    background-color:rgba(132, 153, 172, 0.192);
+    outline:none;
+}
+
+.shutdown:hover{
+    background-color:rgb(151, 75, 75);
+    cursor:pointer;
+}
+
+/*  */
+
+@media  (max-width:1130px), (max-height:600px) {
+    .log{
+        background: url(./Images/error.jpg);
+        height: 100vh;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+    }
+    .blur{
+        display: none;
+    }
+    .sign{
+        display: none;
+    }
+}
+
+@media  (max-width:500px), (max-height:600px) {
+    .log{
+        background: url(./Images/error-m.jpg);
+        height: 100vh;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+    }
+}
+
+
+
+
+

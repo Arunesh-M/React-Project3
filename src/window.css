@@ -1,0 +1,36 @@
+.window{
+    background: url(./Images/bg.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+
+/*  */
+
+@media  (max-width:1200px), (max-height:680px) {
+       .window{
+          background: url(./Images/error.jpg);
+          height: 100vh;
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: cover;
+          overflow: hidden;
+       }
+}
+
+@media  (max-width:500px), (max-height:600px) {
+    .window{
+       background: url(./Images/error-m.jpg);
+       height: 100vh;
+       background-repeat: no-repeat;
+       background-position: top;
+       background-size: cover;
+       overflow: hidden;
+    }
+}
+
+
+
