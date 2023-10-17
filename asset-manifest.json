@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Project3/static/css/main.2bc5f11d.css",
-    "main.js": "/React-Project3/static/js/main.8dd098a9.js",
+    "main.js": "/React-Project3/static/js/main.d40059f2.js",
     "static/media/edgeDisplay.PNG": "/React-Project3/static/media/edgeDisplay.9df62411be8f952bbcdd.PNG",
     "static/media/bg.jpeg": "/React-Project3/static/media/bg.cf5e2e121698dc9fdc0e.jpeg",
     "static/media/search.jpg": "/React-Project3/static/media/search.eb23c9ffac61e5366c0a.jpg",
@@ -30,10 +30,10 @@
     "static/media/win.PNG": "/React-Project3/static/media/win.a43540fa82438e338482.PNG",
     "static/media/storeIcon.PNG": "/React-Project3/static/media/storeIcon.e0cee92e2f36301ca76c.PNG",
     "main.2bc5f11d.css.map": "/React-Project3/static/css/main.2bc5f11d.css.map",
-    "main.8dd098a9.js.map": "/React-Project3/static/js/main.8dd098a9.js.map"
+    "main.d40059f2.js.map": "/React-Project3/static/js/main.d40059f2.js.map"
   },
   "entrypoints": [
     "static/css/main.2bc5f11d.css",
-    "static/js/main.8dd098a9.js"
+    "static/js/main.d40059f2.js"
   ]
 }
